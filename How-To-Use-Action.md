@@ -92,6 +92,9 @@
 
 - `REFRESH_TOKENS` **[必选]** *阿里云盘 refresh token, 多账户使用英文逗号 (,) 分隔*
 - `GP_TOKEN` [推荐] 在 Action 中运行时更新 refresh token
+- 
+> **获取 REFRESH_TOKENS 的方法**
+>[获取Refresh_Token](https://alist.nn.ci/zh/guide/drivers/aliyundrive.html)
 
 > **获取 GP_TOKEN 的方法**
 >
